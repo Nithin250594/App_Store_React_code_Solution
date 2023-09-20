@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.each-tab-list {
+  list-style-type: none;
+}
+.tab-text {
+  color: #7b8794;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 8px;
+}
+.button {
+  border: 0px;
+  padding: 0px;
+  background-color: transparent;
+  border-bottom: 3px solid #dfe2e5;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.blueBorder {
+  border-color: #2563eb;
+}
